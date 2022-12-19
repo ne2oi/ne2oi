@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ne2oi">
-    <img src="https://user-images.githubusercontent.com/116831769/208440249-ef3b24b7-e915-4134-89c8-3343b535e7e7.png" alt="Hi all! I'm Tim, a junior front-end developer." /></a>
+    <img src="https://user-images.githubusercontent.com/116831769/208444548-3c7c13af-e13c-4c46-abcd-7f5aa5012f09.svg" alt="Hi all! I'm Tim, a junior front-end developer." /></a>
 </p>
 
 <p align="center">
