@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg - Thank you very much for your service!-->
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Commissioner&weight=600&size=26&duration=3000&pause=5000&color=c9d1d9&background=FFFFFF00&center=true&vCenter=true&width=620&lines=Here+are+my+projects.+;I+am+looking+for+all+sorts+of+cooperation." /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Commissioner&weight=600&size=25&duration=3000&pause=5000&color=c9d1d9&background=FFFFFF00&center=true&vCenter=true&width=620&lines=Here+are+my+projects.+;I+am+looking+for+all+sorts+of+cooperation." /></a>
   <!-- 555480 -->
 </p>
 
@@ -36,19 +36,3 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" align="left" width="50px" style="padding-right:0px;"  /> </a>
 </p>
 
-
-
-<!--
-**ne2oi/ne2oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
